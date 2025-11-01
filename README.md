@@ -9,3 +9,7 @@ Before deploying, re-generate static web pages with `hugo`
 ## Create new content
 
 `hugo new content posts/<name>.md`
+
+TODO:
+1. Separate tech blog posts from personal blog posts
+2. Last modified on the post (in addition to created)
